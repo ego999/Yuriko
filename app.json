@@ -1,5 +1,5 @@
 {
-      "name": "Yuriko Robot",
+      "name": "EGO",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/1495fab0586fe05160204.jpg",  
+   "logo":    "https://te.legra.ph/file/dd67c126cbd6e8edac14e.jpg",  
    "repository": "https://github.com/kennedy-ex/https://github.com/BrayDenXD/yuriko",
    "addons": [
           {
